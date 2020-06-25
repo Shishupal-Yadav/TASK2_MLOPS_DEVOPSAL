@@ -1,7 +1,7 @@
 <pre>
 <?php
-print "TASK COMPLETED";
-print "SUCCESS!!!";
+printtt "TASK COMPLETED";
+printtt "SUCCESS!!!";
 print `ifconfig`;
 ?>
 </pre>
